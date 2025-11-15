@@ -1,0 +1,2 @@
+ PhonePe’s UI and UX work to create an intuitive and visually appealing app. While the UI ensures 
+aesthetic consistency and clarity, UX enhances functionality and ease of use. Addressing minor pain points, such as improving accessibility for older users, can further enhance the experience. Leveraging UI/UX tools like Figma, Adobe XD, and Sketch helps designers refine and optimize digital products effectively. 
